@@ -32,7 +32,7 @@ MATH  330  	- Linear Algebra. <br />
 
 Transferred in GPA: 3.31
 
-Western Governors University
+Western Governors University <br />
 ORA1 - Orientation. <br />
 C959 - Discrete Mathematics I. <br />
 C960 - Discrete Mathematics II. <br />
