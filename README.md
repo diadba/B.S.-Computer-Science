@@ -4,31 +4,31 @@ Repository for Bachelors of Science in Computer Science course work.
 Completed Courses: <br />
 
 Truckee Meadows Community College | University of Nevada, Reno
-EDU203    - Intro to Special Ed. <br />
-ENG101    - Composition I. <br />
-MATH 126  - Pre-Calculus I. <br />
-PSC101    - Intro American Politics. <br />
-CH101     - Ancient and Medieval Cltr. <br />
-ENG 102   - Composition II. <br />
-ENGR 100  - Intro Engineering Design. <br />
-MATH 127  - Pre-Calculus II. <br />
-ART 141   - Intro Digital Photo. <br />
-BIOL 190A - Intro Cell/Molecular Biol. <br />
-BIOL 190L - Intro Cell/Moelcular Biol Lab. <br />
-CHEM 121  - General Chemistry I. <br />
-MATH 181  - Calculus I. <br />
-CS 135    - Computer Science I. <br />
-MATH 182  - Calculus II. <br />
-PHYS 100  - Introductory Physics. <br />
-CS 202    - Computer Science II. <br />
-MATH 283  - Calculus III. <br />
-PHYS 180  - Phys for Scientsts/Engr I. <br />
-PHYS 180L - Physics for Sci/Engr Lab. <br />
-ANTH 101  - Intro to Cultural Anthro. <br />
-CS 219    - Computer Organization & Arch. <br />
-PHYS 181  - Phys for Scientsts/Engr II. <br />
-PHYS 181L - Phys for Sci/Engr Lab II. <br />
-MATH 330  - Linear Algebra. <br />
+EDU203		- Intro to Special Ed. <br />
+ENG101    	- Composition I. <br />
+MATH 126  	- Pre-Calculus I. <br />
+PSC101    	- Intro American Politics. <br />
+CH101     	- Ancient and Medieval Cltr. <br />
+ENG 102   	- Composition II. <br />
+ENGR 100  	- Intro Engineering Design. <br />
+MATH 127  	- Pre-Calculus II. <br />
+ART 141   	- Intro Digital Photo. <br />
+BIOL 190A 	- Intro Cell/Molecular Biol. <br />
+BIOL 190L 	- Intro Cell/Moelcular Biol Lab. <br />
+CHEM 121  	- General Chemistry I. <br />
+MATH 181  	- Calculus I. <br />
+CS 135    	- Computer Science I. <br />
+MATH 182  	- Calculus II. <br />
+PHYS 100  	- Introductory Physics. <br />
+CS 202    	- Computer Science II. <br />
+MATH 283  	- Calculus III. <br />
+PHYS 180  	- Phys for Scientsts/Engr I. <br />
+PHYS 180L 	-	 Physics for Sci/Engr Lab. <br />
+ANTH 101  	- Intro to Cultural Anthro. <br />
+CS 219    	- Computer Organization & Arch. <br />
+PHYS 181  	- Phys for Scientsts/Engr II. <br />
+PHYS 181L 	- Phys for Sci/Engr Lab II. <br />
+MATH 330  	- Linear Algebra. <br />
 
 Transferred in GPA: 3.31
 
