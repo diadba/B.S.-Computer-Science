@@ -4,7 +4,7 @@ Repository for Bachelors of Science in Computer Science course work.
 Completed Courses: <br />
 
 Truckee Meadows Community College | University of Nevada, Reno
-EDU203		- Intro to Special Ed. <br />
+EDU203		<\t>- Intro to Special Ed. <br />
 ENG101    	- Composition I. <br />
 MATH 126  	- Pre-Calculus I. <br />
 PSC101    	- Intro American Politics. <br />
