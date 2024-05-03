@@ -1,9 +1,9 @@
 Competencies:
 
-Logic and Proofs.
-Set Theory, Finite Sequences, and Series.
-Boolean Algebra and Boolean Functions.
-Matrix Operations.
-Finite and Infinite Series.
-Relations.
-Graphs and Trees.
+Logic and Proofs. <br />
+Set Theory, Finite Sequences, and Series. <br />
+Boolean Algebra and Boolean Functions. <br />
+Matrix Operations. <br />
+Finite and Infinite Series. <br />
+Relations. <br />
+Graphs and Trees. <br /> 
