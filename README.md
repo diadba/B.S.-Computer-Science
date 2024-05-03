@@ -29,6 +29,7 @@ CS    219 	- Computer Organization & Arch. <br />
 PHYS  181  	- Phys for Scientsts/Engr II. <br />
 PHYS 181L 	- Phys for Sci/Engr Lab II. <br />
 MATH  330  	- Linear Algebra. <br />
+CS    219   - Digital Design. <br />
 
 Transferred in GPA: 3.31
 
