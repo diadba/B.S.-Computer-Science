@@ -3,12 +3,12 @@ Repository for Bachelors of Science in Computer Science course work.
 
 Completed Courses: <br />
 
-Truckee Meadows Community College | University of Nevada, Reno
-EDU203		<\t>- Intro to Special Ed. <br />
-ENG101    	- Composition I. <br />
-MATH 126  	- Pre-Calculus I. <br />
-PSC101    	- Intro American Politics. <br />
-CH101     	- Ancient and Medieval Cltr. <br />
+Truckee Meadows Community College | University of Nevada, Reno <br />
+EDU203      - Intro to Special Ed. <br />
+ENG101      - Composition I. <br />
+MATH 126    - Pre-Calculus I. <br />
+PSC101      - Intro American Politics. <br />
+CH101       - Ancient and Medieval Cltr. <br />
 ENG 102   	- Composition II. <br />
 ENGR 100  	- Intro Engineering Design. <br />
 MATH 127  	- Pre-Calculus II. <br />
